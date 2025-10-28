@@ -1,3 +1,6 @@
+# Watch Me Build The Lab HERE!
+https://www.loom.com/share/f7a85e98d5024385bf9ef079f3079b1b
+
 # Azure Static Web Hosting Lab
 
 ## 1. Resource Provisioning and Setup
