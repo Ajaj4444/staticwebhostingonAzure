@@ -1,7 +1,7 @@
 # Azure Static Web Hosting Lab
 
 ## 1. Resource Provisioning and Setup
-- Created an **Azure account**.
+- You will need an **Azure account**.
 - Prepared an **HTML file** for deployment.
 - Created an **Azure Storage Account** to host the static website.
 
@@ -15,7 +15,7 @@
 
 ## 4. In-Place Content Modification (Optional)
 - Demonstrated how to modify the **HTML file** directly after it was uploaded.
-- Re-uploaded the updated file to observe live changes on the hosted site.
+- Save the modified file to observe live changes on the hosted site.
 
 ## 5. Cost Management and Decommissioning
 - Reviewed cost implications of hosting a static site on Azure.
